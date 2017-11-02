@@ -1,6 +1,6 @@
-## Indirect Supervision for Relation Extraction Using Question-Answer Pairs
+## Relation Extraction with Question-Answer Pairs (ReQuest)
 
-Source code and data for WSDM'18 paper *[Indirect Supervision for Relation Extraction Using Question-Answer Pairs]*. 
+Source code and data for WSDM'18 paper [Indirect Supervision for Relation Extraction Using Question-Answer Pairs](https://arxiv.org/abs/1710.11169). 
 
 ## Performance
 Performance comparison with several *relation extraction* systems over KBP 2013 dataset (**sentence-level extraction**). 
